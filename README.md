@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Basic c++ and advanced c#
 - 📫 How to reach me 
 -My Email - gamestudio275@gmail.com
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 <!---
 Amogh-Mittal/Amogh-Mittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
