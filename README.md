@@ -5,7 +5,7 @@
 -My Email - gamestudio275@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kushagraraj&label=views)
-[![Follow Amogh](https://img.shields.io/github/followers/kushagraraj?label=Follow&style=social)](https://github.com/$BlueDev5)
+[![Follow Amogh](https://img.shields.io/github/followers/$BlueDev5?label=Follow&style=social)](https://github.com/$BlueDev5)
 
 <!---
 Amogh-Mittal/Amogh-Mittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
