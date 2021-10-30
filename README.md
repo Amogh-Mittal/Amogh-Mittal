@@ -4,7 +4,7 @@
 - 📫 How to reach me 
 -My Email - gamestudio275@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=kushagraraj&label=views)
+![Profile Views](https://komarev.com/ghpvc/?username=Amogh-Mittal&label=views)
 [![Follow Amogh](https://img.shields.io/github/followers/Amogh-Mittal?label=Follow&style=social)](https://github.com/Amogh-Mittal)
 
 <!---
