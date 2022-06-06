@@ -1,6 +1,6 @@
 <h1 align="center">Amogh Mittal aka $BlueDev5</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BlueDev5&theme=onedark&no-bg=true&no-frame=true" alt="Amogh-Mittal's Trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BlueDev5&theme=onedark&no-bg=true&no-frame=true" alt="BlueDev5's Trophies" /></a> </p>
 
 <h3 align="center">Some Stats</h3>
 <p align="center">
